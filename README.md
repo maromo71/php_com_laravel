@@ -10,7 +10,7 @@ Neste capítulo nós autores nos apresentamos, saudando você que escolheu apren
 
 Escrevi minhas primeiras linhas de código, como todo adolescente na década de 1980 que se envolvia com microcomputadores, na linguagem Basic, quem não se lembra de GOTO e GOSUB, instruções usadas para saltar para um local específico do programa, algo do tipo, pra lá e pra cá. :-\)
 
-
+![](/assets/Lucas - %28© VAL MENATO 2013%2950 %28214x300%29.jpg)
 
 No final da década de 1989 iniciei meu curso de Tecnólogo em Processamento de Dados na Faculdade Pinhalense de Ensino, atual Unipinhal e nadei em águas profundas desde então - Cobol, C, Turbo Pascal \(parece que estou ficando velhinho\). Na década de 2000 já atuando como professor de curso técnico em informática em uma Etec do Centro Paula Souza, resolvi cursar uma pós em Administração de Sistemas de Informação, na época programando e lecionando Delphi em uma turma e Visual Basic em outra. :-\)
 
