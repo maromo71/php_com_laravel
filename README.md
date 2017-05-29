@@ -2,11 +2,11 @@
 
 Neste capítulo nós autores nos apresentamos, saudando você que escolheu aprender o Laravel Framework por meio deste material.
 
-## Professor Binho
+### Professor Binho
 
 \[Binho aqui sua apresentação\]
 
-## Professor Maromo
+### Professor Maromo
 
 Escrevi minhas primeiras linhas de código, como todo adolescente na década de 1980 que se envolvia com microcomputadores, na linguagem Basic, quem não se lembra de GOTO e GOSUB, instruções usadas para saltar para um local específico do programa, algo do tipo, pra lá e pra cá. :-\)
 
